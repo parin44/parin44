@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Parin Thakrar, Passionate about Technology.
+
+
 <!--
 **parin44/parin44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
